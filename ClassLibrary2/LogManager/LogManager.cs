@@ -3,8 +3,7 @@ using System.Configuration;
 using System.IO;
 using NLog;
 using NLog.Targets;
-
-namespace ClassLibrary2
+namespace LogManager
 {
     public class LogManager
     {
