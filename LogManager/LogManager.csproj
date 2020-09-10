@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
+  <version>1.0.0</version> 
   <ItemGroup>
     <PackageReference Include="NLog" Version="4.7.4" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
